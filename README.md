@@ -1,1 +1,1 @@
-# CThis repository contains excel files used to calculate the risk and profitability
+This repository contains excel files used to calculate the risk and profitability
